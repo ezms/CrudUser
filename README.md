@@ -1,7 +1,8 @@
 <h2>Yollo! As it's been a while since I posted anything here, I decided to create a project for a new stack (Java - Spring), 
 it's a simple user CRUD, but with some features that I wanted to test.</h2>
-***
+
 ### 🔚 Endpoints: 
+
 <br>
 <p style="color: gold">POST:</p>
 <code>/register</code>
