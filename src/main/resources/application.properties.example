@@ -1,4 +1,4 @@
-
+# If you want to test this application, change the name of this file and the data referring to your database
 spring.datasource.url=jdbc:postgresql://localhost:5432/your_database
 spring.datasource.username=your_username
 spring.datasource.password=your_password

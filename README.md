@@ -1,6 +1,23 @@
 <h2>Yollo! As it's been a while since I posted anything here, I decided to create a project for a new stack (Java - Spring), 
 it's a simple user CRUD, but with some features that I wanted to test.</h2>
 
+## ⚠️ Requirements
+
+
+-   Language: Java 11
+-   Versão da linguagem: 11+
+-   IDE: [ VSCode, Eclipse, IntelliJIDEA, etc... ]
+
+## Installation
+<p>If you want to install the API to run the tests locally on your machine, follow these steps:</p>
+
+1 - Make the necessary changes to the [application.properties.example](/src/main/resources/application.properties.example) file
+
+2 - Run project in [Main](/src/main/java/com/ezms/project/CrudUserApplication.java) class
+
+<hr>
+<br>
+
 ### 🔚 Endpoints: 
 
 <br>
